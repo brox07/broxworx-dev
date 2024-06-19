@@ -1,0 +1,16 @@
+.footer {
+    background-color: #53b5a5;
+    color: #151515;
+    margin-top: auto;
+    max-height: 190px;
+}
+
+.footer p {
+    font-size: 17px;
+    font-weight: 550;
+}
+
+.logo img {
+    height: 80px;
+    text-align: left;
+}

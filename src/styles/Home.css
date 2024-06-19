@@ -1,0 +1,32 @@
+.home {
+    padding-top: 10px;
+    text-align: center;
+    margin-bottom: -240px;
+    min-height: 100vh;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    width: 800px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.headshot {
+    display: block;
+    max-width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 10%;
+}
+
+ul {
+    list-style-type: none;    
+}
+
+p i {
+    margin-left: 5px;
+}
